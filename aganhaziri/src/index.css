@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "eurostile";
+  src: local("eurostile"),
+    url("./fonts/EuroStyle\ Normal.ttf") format("truetype");
+  font-weight: bold;
+}
+body {
+  margin: 0;
+  font-family: "eurostile", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "eurostile", sans-serif;
+}
